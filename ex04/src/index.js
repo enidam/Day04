@@ -1,16 +1,16 @@
 function main() {
     
     var myDecimal=2.54;
-    var myDecimalE= product;
-    var product
+    var myDecimalE
     
-    product=2.54 * 10**-3; 
+    
+    myDecimalE = myDecimal * 10**-3; 
 
 
 
 
     
-        return product;
+       return{
         myDecimal;
             myDecimalE;
     }
